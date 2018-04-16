@@ -1,2 +1,2 @@
 # pascal
-GitHub Pages
+https://piotrostrowski1311.github.io/pascal/
